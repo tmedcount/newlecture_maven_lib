@@ -1,4 +1,4 @@
-package com.newlecture.examlib.emtity;
+package com.newlecture.examlib.entity;
 
 public class Exam {
 	private int kor;
@@ -14,7 +14,7 @@ public class Exam {
 	}
 	
 	public Exam() {
-		// TODO Auto-generated constructor stub
+
 	}
 
 	public Exam(int kor, int eng, int math) {
